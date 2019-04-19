@@ -55,7 +55,7 @@ The artists emulated cellular patterns and different geometrical structures to p
 ### Algorithmic Everything
 Ross Lovegrove is another artist who brought 2-D algorithmic design to real life. He worked on more robust pieces that varied from shoes to solar-powered cars. His work is more elaborated than the jewelry which gives the effect of advanced technology. The effect of cellular patterns is also seen in these works, which brings upon a more natural aspect to a very robust and technology-based product design. 
 
-[AlgortithmicEverything] (http://modernmag.com/the-renaissance-man-of-the-future-ross-lovegrove-at-the-pompidou-center/)
+[AlgortithmicEverything](http://modernmag.com/the-renaissance-man-of-the-future-ross-lovegrove-at-the-pompidou-center/)
 
 # Data Visualization
 
@@ -65,7 +65,7 @@ The dude map illustrates how people call their friends in the US, by “buddy, �
 The color pallet varies from light pink to magenta and dark purple, which I appreciate because it adds a hint of femininity to commonly used masculine nicknames. Furthermore, the intensity of the color appears in states where these nicknames are most popularly used. 
 I love how the artist displayed the 5 nicknames on top and as you click on each one, the US map gradually changes color. The font used is also minimalist which is perfect because it does not get into the way of the main message of the piece. 
 
-[Here's](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)
+[TheDudeMap](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)
 
 ### The Enlightened Happy Hour by Column Five Media
 
@@ -73,4 +73,4 @@ The “Enlightened Happy Hour” is an interactive work that shows the calories 
 The canvas is introduced with a set of film images of a bar and opens up into a main menu with clickable icons displaying cocktails, martinis, beers and wine. Once you click on a drink category, say classic cocktails, images of 4 different ones, Bloody Mary, Long-Island Iced Tea, Mojito and Cuba Libre show up. And once you click on any of those, the information on each one displayed. 
 The work is displayed with pictures which brings life to the canvas and makes the interactivity with the user more real. It emulates a consumer in a bar looking into the drink’s menu. On top of that, the information about the drinks are displayed in a clean and simple manner which doesn’t clash with the complexity of the images. 
 
-[Here's](http://cocktail.columnfivemedia.com/index.html)
+[HappyHour](http://cocktail.columnfivemedia.com/index.html)
